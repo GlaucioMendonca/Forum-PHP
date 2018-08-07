@@ -1,0 +1,44 @@
+.panel-commentary{
+    margin: 0 1% 0 1%;
+}
+.commentary-form{
+    margin-bottom: 0 !important;
+}
+.panel-body-padding-bottom{
+    padding-bottom: 0 !important;
+}
+.none{
+    border-left: 5px solid #3097D1;
+    padding: 1%;
+    background-color: #d5eaf6;
+}
+.btn{
+    text-align: left !important;
+}
+.btn-default{
+    border-color: #fff !important;
+}
+.btn-default:hover{
+    background-color: #fff !important;
+}
+.btn-default:active{
+    box-shadow: none !important;
+    background-color: #fff !important;
+}
+#cadastrar-tema, #cadastrar-postagem{
+    display: none;
+}
+#mensagem-fixa{
+    position: fixed;
+    top: 0;
+    display: none;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    z-index: 999;
+}
+.button_top{
+    position: fixed;
+    opacity: 0;
+    bottom: 10px;
+    right: 10px;
+}
